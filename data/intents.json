@@ -1,0 +1,20 @@
+[
+  {"text": "नमस्ते", "label": "greet"},
+  {"text": "हैलो", "label": "greet"},
+  {"text": "शुभ प्रभात", "label": "greet"},
+  {"text": "अलविदा", "label": "bye"},
+  {"text": "फिर मिलेंगे", "label": "bye"},
+  {"text": "मौसम कैसा है?", "label": "ask_weather"},
+  {"text": "क्या आज बारिश होगी?", "label": "ask_weather"},
+  {"text": "आज कितनी गर्मी है?", "label": "ask_weather"},
+  {"text": "समय क्या हुआ है?", "label": "ask_time"},
+  {"text": "अभी कितने बजे हैं?", "label": "ask_time"},
+  {"text": "तुम कौन हो?", "label": "ask_bot_info"},
+  {"text": "तुम क्या हो?", "label": "ask_bot_info"},
+  {"text": "तुम क्या कर सकते हो?", "label": "ask_capabilities"},
+  {"text": "तुमसे क्या पूछा जा सकता है?", "label": "ask_capabilities"},
+  {"text": "शुक्रिया", "label": "thank_you"},
+  {"text": "धन्यवाद", "label": "thank_you"},
+  {"text": "क्या तुम इंसान हो?", "label": "unknown"},
+  {"text": "मेरे जूते कहाँ हैं?", "label": "unknown"}
+]
