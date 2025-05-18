@@ -49,10 +49,10 @@ def evaluate():
         true_labels.append(true_label)
         pred_labels.append(pred_label)
 
-    print("🔍 Classification Report:\n")
+    print("Classification Report:\n")
     print(classification_report(true_labels, pred_labels))
 
-    print("\n📊 Confusion Matrix:")
+    print("\nConfusion Matrix:")
     print(confusion_matrix(true_labels, pred_labels))
 
 if __name__ == "__main__":
