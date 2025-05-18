@@ -1,0 +1,36 @@
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model checkpoints if rebuilding frequently
+*.ckpt
+*.pth
+*.pt
+
+# Ignore system files
+.DS_Store
+
+# Ignore git repository metadata
+.git/
+.gitignore
+
+# Ignore logs
+*.log
+
+# Ignore virtual environment folders (if any)
+venv/
+.env/
+
+# Ignore Jupyter notebooks (if you don't want them in container)
+*.ipynb
+
+# Ignore any build artifacts
+build/
+dist/
+
+# Ignore local data files not meant for container
+*.csv
+*.xlsx
+*.db

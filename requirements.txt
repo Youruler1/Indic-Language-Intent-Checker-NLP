@@ -1,0 +1,8 @@
+transformers==4.38.2
+torch==2.2.2
+scikit-learn==1.3.2
+pandas==2.2.1
+numpy==1.26.4
+tqdm==4.66.2
+regex==2023.12.25
+indic-nlp-library==0.81
